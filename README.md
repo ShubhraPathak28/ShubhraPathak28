@@ -22,4 +22,4 @@ I am Shubhra Pathak, a final-year Computer Science and Engineering student at SR
 - Former iOS Application Developer Intern at Infosys. 
   
 # 🌐 Socials:
-You can reach out to me on LinkedIn at [www.linkedin.com/in/shubhrapathak28](www.linkedin.com/in/shubhrapathak28)
+You can reach out to me on LinkedIn at [https://linkedin.com/in/shubhrapathak28](https://linkedin.com/in/shubhrapathak28)
