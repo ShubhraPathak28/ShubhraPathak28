@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello there!👋<br><br>I am Shubhra Pathak, a passionate final-year Computer Science and Engineering student at SRM Institute of Science and Technology, with a strong passion for technology and innovation.<br><br>I'm passionate about Web and App development 👨‍💻 and creating solutions through Data Management and Automation Technologies according to business requirements. 🚀<br><br>🔭 I’m looking to collaborate on challenging projects.<br><br>🌱 I’m currently learning to build pipelines through Matillion.<br><br>❓ Ask me about anything related to iOS Application Development.<br><br>⚡ Fun fact: I have written an anthology which is now available in Amazon.
+# 💫 Hello there!👋:
+I am Shubhra Pathak, a passionate final-year Computer Science and Engineering student at SRM Institute of Science and Technology, with a strong passion for technology and innovation.<br><br>I'm passionate about Web and App development 👨‍💻 and creating solutions through Data Management and Automation Technologies according to business requirements. 🚀<br><br>🔭 I’m looking to collaborate on challenging projects.<br><br>🌱 I’m currently learning to build pipelines through Matillion.<br><br>❓ Ask me about anything related to iOS Application Development.<br><br>⚡ Fun fact: I have written an anthology which is now available in Amazon.
 
 
 ## 🌐 Socials:
