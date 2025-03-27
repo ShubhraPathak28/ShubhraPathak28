@@ -28,7 +28,7 @@ I am Shubhra Pathak, a final-year Computer Science and Engineering student at SR
 
 # 💼 My Work Experience:
 
-- Upcoming Software Engineer at JP Morgan Chase & Co.
+- Software Engineer at JP Morgan Chase & Co.
 - Former Data Analyst Intern at Cummins.
 - Former iOS Application Developer Intern at Infosys. 
   
